@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Ismail, Abouamal'
+theme = "mainroad"
+
+[Params.logo]
+  title = "Ismail, Abouamal"
+  subtitle = "Personal blog"
+
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.style.vars]
+  highlightColor = "#000080"
