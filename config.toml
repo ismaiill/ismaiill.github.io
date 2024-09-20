@@ -22,6 +22,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mainSections = ["post", "docs"]
 
 [Params.logo]
+  image = "img/placeholder.png" # Logo image. Path relative to "static"
   subtitle = "Just another site" # Logo subtitle
 
 [Params.sidebar]

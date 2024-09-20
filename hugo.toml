@@ -6,6 +6,8 @@ theme = "mainroad"
 [Params.logo]
   title = "Ismail, Abouamal"
   subtitle = "Personal blog"
+  image = "img/placeholder.png" # Logo image. Path relative to "static"
+
 
 
 [Params.sidebar]
