@@ -1,30 +1,52 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Basic HTML Elements - Ismail, Abouamal</title>
-	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="Example test article that contains basic HTML elements for text formatting on the Web.">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="dns-prefetch" href="//fonts.googleapis.com">
-	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Basic HTML Elements - Ismail, Abouamal</title>
+    <script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+    <meta name="description" content="Example test article that contains basic HTML elements for text formatting on the Web.">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
 
-	<link rel="stylesheet" href="/css/style.css">
-	
+    <link rel="stylesheet" href="/css/style.css">
+    
 
-	<link rel="shortcut icon" href="/favicon.ico">
-		
+    <link rel="shortcut icon" href="/favicon.ico">
+        
+
+    
+	<script>
+		window.MathJax = {
+
+		  tex: {
+			packages: {'[+]': ['amsmath']},
+			inlineMath: [['$', '$'], ['\\(', '\\)']],
+			displayMath: [['$$', '$$'], ['\\[', '\\]']]
+		  },
+		  startup: {
+			ready: () => {
+			  MathJax.startup.defaultReady();
+			  console.log('MathJax is ready!');
+			}
+		  }
+		};
+	</script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body class="body">
 	<div class="container container--outer">
 		<header class="header">
 	<div class="container header__container">
 		
-	<div class="logo">
+	<div class="logo logo--mixed">
 		<a class="logo__link" href="/" title="Ismail, Abouamal" rel="home">
-			<div class="logo__item logo__text">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/logo_blue.png">
+				</div><div class="logo__item logo__text">
 					<div class="logo__title">Ismail, Abouamal</div>
 					<div class="logo__tagline">Personal blog</div>
 				</div>
@@ -258,7 +280,11 @@ Also you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p>
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/docs/my-new-post/">Hello!</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/rsa-algorithm/">RSA Algorithm</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/first-post/">First Post!</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/basic-elements/">Basic HTML Elements</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/hugo-template-primer/">(Hu)go Template Primer</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/getting-started-with-hugo/">Getting Started with Hugo</a></li>
 		</ul>
 	</div>
 </div>
@@ -284,6 +310,7 @@ Also you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/html/" title="HTML">HTML</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/hugo/" title="Hugo">Hugo</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/installation/" title="Installation">Installation</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/new-post/" title="New Post">New Post</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/templates/" title="Templates">Templates</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/themes/" title="Themes">Themes</a>
 	</div>

@@ -29,12 +29,5 @@
       <guid>http://localhost:1313/publications/</guid>
       <description>Transition of type in the von Neumann algebras associated to the Connes-Marcolli $GSp_4$-system Author: Ismail Abouamal&#xA;Published on: 2024-07-19&#xA;arXiv Link&#xA;Abstract:&#xA;We study different types of von Neumann algebras arising from the Connes-Marcolli $GSp_4$-system and show that a phase transition occurs at the level of these algebras. More precisely, we show that the type of these algebras transitions from type $I_{\infty}$ to type $\textrm{III}_1$, with this transition occurring precisely at the inverse temperature $β=4$.</description>
     </item>
-    <item>
-      <title>First Post!</title>
-      <link>http://localhost:1313/post/first-post/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/first-post/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
