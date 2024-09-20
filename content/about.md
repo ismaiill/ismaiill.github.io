@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-I obtained my Ph.D. in Mathematics in 2024 under the supervision of Dr. [Matilde Marcolli](https://en.wikipedia.org/wiki/Matilde_Marcolli). Prior to that I worked under the supervision of Dr. [Pavel Winternitz](https://scholar.google.com/citations?user=vudg6JYAAAAJ&hl=en) on superintegrable quantum systems. I am currently looking for an opportunity to work in Machine Learning/Data Science. If I am not coding or learning, I am probably lifting some weigths at the gym.
+I obtained my Ph.D. in Mathematics in 2024 under the supervision of Dr. [Matilde Marcolli](https://en.wikipedia.org/wiki/Matilde_Marcolli). Prior to that I worked under the supervision of Dr. [Pavel Winternitz](https://en.wikipedia.org/wiki/Pavel_Winternitz) on superintegrable quantum systems. I am currently looking for an opportunity to work in Machine Learning/Data Science. If I am not coding or learning, I am probably lifting some weigths at the gym.
 
 --- 
 
