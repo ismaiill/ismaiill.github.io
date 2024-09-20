@@ -5,7 +5,7 @@ authorbox: false
 sidebar: False
 menu: main
 ---
-#### Transition of type in the von Neumann algebras associated to the Connes-Marcolli $GSp(4)$-system
+#### Transition of type in the von Neumann algebras associated to the Connes-Marcolli ${GSp(4)}$-system
 **Author**: Ismail Abouamal  
 **Published on**: 2024-07-19   
 **[arXiv Link](https://arxiv.org/abs/2403.03932)**
