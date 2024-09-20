@@ -6,7 +6,7 @@ theme = "mainroad"
 [Params.logo]
   title = "Ismail, Abouamal"
   subtitle = "Personal blog"
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "img/logo_blue.png" # Logo image. Path relative to "static"
 
 
 
@@ -17,4 +17,4 @@ theme = "mainroad"
 widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.style.vars]
-  highlightColor = "#000080"
+  highlightColor = "#1a75cc"
