@@ -6,6 +6,28 @@
     <description>Recent content in Categories on Ismail, Abouamal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2024 22:10:32 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:1313/categories/cryptography/</link>
+      <pubDate>Thu, 19 Sep 2024 22:10:32 -0500</pubDate>
+      <guid>http://localhost:1313/categories/cryptography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/categories/development/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/golang/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

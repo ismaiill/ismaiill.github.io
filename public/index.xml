@@ -6,13 +6,55 @@
     <description>Recent content on Ismail, Abouamal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 22:24:21 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>http://localhost:1313/blog/</link>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>http://localhost:1313/docs/customization/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/customization/</guid>
+      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or&#xA;via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,&#xA;and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ml DataScience</title>
+      <link>http://localhost:1313/post/ml-datascience/</link>
+      <pubDate>Thu, 19 Sep 2024 22:24:21 -0500</pubDate>
+      <guid>http://localhost:1313/post/ml-datascience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diffusion Models Explained</title>
+      <link>http://localhost:1313/post/diffusion-models-explained/</link>
+      <pubDate>Thu, 19 Sep 2024 22:23:27 -0500</pubDate>
+      <guid>http://localhost:1313/post/diffusion-models-explained/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformers Explained</title>
+      <link>http://localhost:1313/post/transformers-explained/</link>
+      <pubDate>Thu, 19 Sep 2024 22:22:50 -0500</pubDate>
+      <guid>http://localhost:1313/post/transformers-explained/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ViT Explained</title>
+      <link>http://localhost:1313/post/vit-explained/</link>
+      <pubDate>Thu, 19 Sep 2024 22:22:22 -0500</pubDate>
+      <guid>http://localhost:1313/post/vit-explained/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The RSA Algorithm</title>
+      <link>http://localhost:1313/post/rsa-algorithm/</link>
+      <pubDate>Thu, 19 Sep 2024 22:10:32 -0500</pubDate>
+      <guid>http://localhost:1313/post/rsa-algorithm/</guid>
       <description></description>
     </item>
     <item>
@@ -28,6 +70,62 @@
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/</guid>
       <description>Transition of type in the von Neumann algebras associated to the Connes-Marcolli $GSp_4$-system Author: Ismail Abouamal&#xA;Published on: 2024-07-19&#xA;arXiv Link&#xA;Abstract:&#xA;We study different types of von Neumann algebras arising from the Connes-Marcolli $GSp_4$-system and show that a phase transition occurs at the level of these algebras. More precisely, we show that the type of these algebras transitions from type $I_{\infty}$ to type $\textrm{III}_1$, with this transition occurring precisely at the inverse temperature $β=4$.</description>
+    </item>
+    <item>
+      <title>Attention mechanism</title>
+      <link>http://localhost:1313/post/attention/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/attention/</guid>
+      <description>Image you want to translate the following sentence from English to French: AI is truly an amazing technology. In this day and age, you have two options. Either you take a one semester course in French, learn how to say baguette and croissant and try to translate the above sentene. More likely than not, you will fail, in which case you will open an LLM terminal and ask an AI do it for you.</description>
+    </item>
+    <item>
+      <title>First Post!</title>
+      <link>http://localhost:1313/post/first-post/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frequently asked questions (FAQ)</title>
+      <link>http://localhost:1313/docs/faq/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/faq/</guid>
+      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere&#xA;in the documentation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting started</title>
+      <link>http://localhost:1313/docs/getting-started/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/getting-started/</guid>
+      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal&#xA;configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar&#xA;with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello!</title>
+      <link>http://localhost:1313/docs/my-new-post/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/my-new-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basic HTML Elements</title>
+      <link>http://localhost:1313/post/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://localhost:1313/post/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hugo-template-primer/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in Go templates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://localhost:1313/post/getting-started-with-hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/getting-started-with-hugo/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:&#xA;Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
     </item>
   </channel>
 </rss>
