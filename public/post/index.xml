@@ -44,11 +44,11 @@
       <description></description>
     </item>
     <item>
-      <title>Attension mechanism</title>
+      <title>Attention mechanism</title>
       <link>http://localhost:1313/post/attention/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/attention/</guid>
-      <description></description>
+      <description>Image you want to translate the following sentence from English to French: The world is amazing. In this day and age, you have two options. Either you take a one semester course in French, learn how to say baguette and croissant and try to translate the above sentene. More likely than not, you will fail, in which case you will open an LLM terminal and ask an AI do it for you.</description>
     </item>
     <item>
       <title>First Post!</title>
