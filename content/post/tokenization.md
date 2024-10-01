@@ -5,7 +5,7 @@ lead: This article the BPE algorithm though an easy example.
 date: 2022-01-24T14:00:00.000Z
 tags:
   - "LLMs"
-authorbox: true
+authorbox: false
 sidebar: true
 pager: false
 draft: false
