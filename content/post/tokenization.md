@@ -10,7 +10,7 @@ sidebar: true
 pager: false
 draft: false
 ---
-Suppose you want to translate the following sentence from English to French: "The world is amazing." In today’s digital age, you would likely open a large language model (LLM) and ask the AI to perform the translation for you. In this post, we will explore the very first step that the LLM takes to do the job, namely tokenization.
+Suppose you want to translate the following sentence from English to French: "wow, the world is amazing." In today’s digital age, you would likely open a large language model (LLM) and ask the AI to perform the translation for you. In this post, we will explore the very first step that the LLM takes to do the job, namely tokenization.
 
 Computers don't understand words; they can only read binary, which consists of a series of electrical signals within the billions of transistors that make up modern computers (for example, an Apple M2 contains about 13 billion transistors). The job of a tokenizer is to transform our initial sentence into a series of numbers that can be read by the computer. There are many ways to construct a tokenizer, but the most straightforward approach is to encode each character of the English language. However, this method results in very long sequences of numbers, which is computationally inefficient; we want to minimize the number of computations, and having a lengthy sequence of numbers to process won't help! Thus, we need to consider an alternative. A more efficient way to encode a sequence is through Byte Pair Encoding (BPE), which was introduced in 1994 by Philip Gage as a text compression algorithm.
 
