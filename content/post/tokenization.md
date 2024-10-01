@@ -10,7 +10,7 @@ sidebar: true
 pager: false
 draft: false
 ---
-Suppose you want to translate the following sentence from English to French: "wow, the world is amazing." In today’s digital age, you would likely open a large language model (LLM) and ask the AI to perform the translation for you. In this post, we will explore the very first step that the LLM takes to do the job, namely tokenization.
+Suppose you want to translate the following sentence from English to French: "wow the world is amazing." In today’s digital age, you would likely open a large language model (LLM) and ask the AI to perform the translation for you. In this post, we will explore the very first step that the LLM takes to do the job, namely tokenization.
 
 Computers don't understand words; they can only read binary, which consists of a series of electrical signals within the billions of transistors that make up modern computers (for example, an Apple M2 contains about 13 billion transistors). The job of a tokenizer is to transform our initial sentence into a series of numbers that can be read by the computer. There are many ways to construct a tokenizer, but the most straightforward approach is to encode each character of the English language. However, this method results in very long sequences of numbers, which is computationally inefficient; we want to minimize the number of computations, and having a lengthy sequence of numbers to process won't help! Thus, we need to consider an alternative. A more efficient way to encode a sequence is through Byte Pair Encoding (BPE), which was introduced in 1994 by Philip Gage as a text compression algorithm.
 
@@ -68,7 +68,7 @@ Now we will repeat the exact same algorithm by counting consecutive pairs, takin
 
     {'i': 0, 'w': 1, 'r': 2, 'z': 3, 'e': 4, 's': 5, 't': 6, 'd': 7, 'y': 8, 'l': 9, 'a': 10, 'f': 11, 'v': 12, 'h': 13, '_': 14, 'c': 15, 'b': 16, 'g': 17, 'u': 18, 'm': 19, 'n': 20, 'o': 21, ('s', '_'): 22, ('h', 'e'): 23, ('w', 'o'): 24, ('d', '_'): 25, ('t', 'he'): 26}
 
-Now our initial sequence, "wow, the world is amazing," is encoded as:
+Now our initial sequence, "wow the world is amazing," is encoded as:
 
 
     ['wo', 'w', '_', 'the', '_', 'wo', 'r', 'l', 'd_', 'i', 's_', 'a', 'm', 'a', 'z', 'i', 'n', 'g', '_']
