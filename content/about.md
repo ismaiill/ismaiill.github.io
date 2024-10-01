@@ -22,7 +22,7 @@ Advisor: Dr. Matilde Marcolli
 - Facilitated instruction of ten undergraduate mathematics courses and one graduate course.
 - Recipient of the Scott Russell Johnson Graduate Dissertation Award.
 
-**US Bank**  
+**US Bank & IMA**  
 *Data Scientist Intern* (June - August 2023)
 
 - Improved a regression model for predicting national home appreciation by 30%.
