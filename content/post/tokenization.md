@@ -1,7 +1,7 @@
 ---
 title: Tokenization
-description: This article explains the attention mechanism in a simple way.
-lead: This article the BPE algorithm though an easy example.
+description: This article explains the BPE algorithm though a simple example.
+lead: This article explains the BPE algorithm though a simple example.
 date: 2022-01-24T14:00:00.000Z
 tags:
   - "LLMs"
