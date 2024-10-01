@@ -24,21 +24,21 @@ The world is amazing!`
 
 We begin by preprocessing the text. This involves converting the entire corpus to lowercase, removing punctuation marks, and replacing spaces with underscores to indicate the end of a word.
 
-                        [t, h, e, _, 
-                        w, o, r, l, d, _, 
-                        i, s, _, 
-                        f, u, l, l, _, 
-                        o, f, _, 
-                        w, o, n, d, e, r, s, _, 
-                        m, o, u, n, t, a, i, n, s, _, 
-                        a, n, d, _, 
-                        o, c, e, a, n, s, _, 
-                        b, e, a, u, t, y, _, 
-                        e, v, e, r, y, w, h, e, r, e, _, 
-                        t, h, e, _, 
-                        w, o, r, l, d, _, 
-                        i, s, _, 
-                        a, m, a, z, i, n, g, _]
+`[t, h, e, _, 
+w, o, r, l, d, _, 
+i, s, _, 
+f, u, l, l, _, 
+o, f, _, 
+w, o, n, d, e, r, s, _, 
+m, o, u, n, t, a, i, n, s, _, 
+a, n, d, _, 
+o, c, e, a, n, s, _, 
+b, e, a, u, t, y, _, 
+e, v, e, r, y, w, h, e, r, e, _, 
+t, h, e, _, 
+w, o, r, l, d, _, 
+i, s, _, 
+a, m, a, z, i, n, g, _]`
 
 
 
