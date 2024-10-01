@@ -16,11 +16,11 @@ Computers don't understand words; they can only read binary, which consists of a
 
 The first ingredient of the BPE algorithm is a corpus of text. Let's take the following example. 
 
-
-                        The world is full of wonders.  
-                        Mountains and oceans,  
-                        beauty everywhere.  
-                        The world is amazing!
+`
+The world is full of wonders.  
+Mountains and oceans,  
+beauty everywhere.  
+The world is amazing!`
 
 We begin by preprocessing the text. This involves converting the entire corpus to lowercase, removing punctuation marks, and replacing spaces with underscores to indicate the end of a word.
 
