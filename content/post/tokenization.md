@@ -8,7 +8,7 @@ tags:
 authorbox: false
 sidebar: false
 pager: false
-draft: true
+draft: false
 ---
 Suppose you want to translate the following sentence from English to French: "The world is amazing." In today’s digital age, you would likely open a large language model (LLM) and ask the AI to perform the translation for you. In this post, we will explore the very first step that the LLM takes to do the job, namely tokenization.
 
