@@ -1,7 +1,7 @@
 ---
 title: Tokenization
-description: This article explains the BPE algorithm though a simple example.
-lead: This article explains the BPE algorithm though a simple example.
+description: This article explains the BPE algorithm through a simple example.
+lead: This article explains the BPE algorithm through a simple example.
 date: 2022-01-24T14:00:00.000Z
 tags:
   - "LLMs"
