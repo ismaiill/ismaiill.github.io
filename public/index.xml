@@ -72,13 +72,6 @@
       <description>Transition of type in the von Neumann algebras associated to the Connes-Marcolli $GSp_4$-system Author: Ismail Abouamal&#xA;Published on: 2024-07-19&#xA;arXiv Link&#xA;Abstract:&#xA;We study different types of von Neumann algebras arising from the Connes-Marcolli $GSp_4$-system and show that a phase transition occurs at the level of these algebras. More precisely, we show that the type of these algebras transitions from type $I_{\infty}$ to type $\textrm{III}_1$, with this transition occurring precisely at the inverse temperature $β=4$.</description>
     </item>
     <item>
-      <title>Attention mechanism</title>
-      <link>http://localhost:1313/post/attention/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/attention/</guid>
-      <description>Image you want to translate the following sentence from English to French: The world is amazing. In this day and age, you have two options. Either you take a one semester course in French, learn how to say baguette and croissant and try to translate the above sentene. More likely than not, you will fail, in which case you will open an LLM terminal and ask an AI do it for you.</description>
-    </item>
-    <item>
       <title>First Post!</title>
       <link>http://localhost:1313/post/first-post/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
@@ -105,6 +98,13 @@
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/my-new-post/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Tokenization</title>
+      <link>http://localhost:1313/post/attention/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/attention/</guid>
+      <description>Suppose you want to translate the following sentence from English to French: &amp;ldquo;The world is amazing.&amp;rdquo; In today’s digital age, you would likely open a large language model (LLM) and ask the AI to perform the translation for you. In this post, we will explore the very first step that the LLM takes to do the job, namely tokenization.&#xA;Computers don&amp;rsquo;t understand words; they can only read binary, which consists of a series of electrical signals within the billions of transistors that make up modern computers (for example, an Apple M2 contains about 13 billion transistors).</description>
     </item>
     <item>
       <title>Basic HTML Elements</title>

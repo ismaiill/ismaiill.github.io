@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLMs on Ismail, Abouamal</title>
+    <link>http://localhost:1313/tags/llms/</link>
+    <description>Recent content in LLMs on Ismail, Abouamal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/llms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tokenization</title>
+      <link>http://localhost:1313/post/attention/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/attention/</guid>
+      <description>Image you want to translate the following sentence from English to French: The world is amazing. In this day and age, more likely than not, you will open an LLM terminal and ask an AI to do it for you. We will try to understand the very first step of what the LLM does for you. This step is called tokenization.&#xA;Conputers don&amp;rsquo;t understand words, they can only read binaries, a series of electric signals inside the billions of transitors that make up modern computers (if you are using an Apple M2, there are about 13 billions of them).</description>
+    </item>
+  </channel>
+</rss>
